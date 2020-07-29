@@ -6,5 +6,7 @@
 
 The _Passenger details_ screen appears. This screen will allow you to review your trip’s itinerary, add  personal details, select your baggage requirements, choose travel insurance and, if you wish, add another passenger. 
 
+![Image 2](https://user-images.githubusercontent.com/57447158/88820075-218cf280-d1c1-11ea-9a9a-f8079860c934.png)
+
 
 

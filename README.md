@@ -20,6 +20,14 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 4.	In the _Primary passenger_ section, enter your required personal details.
 
+![Image 5](https://user-images.githubusercontent.com/57447158/88820032-18038a80-d1c1-11ea-96d5-c7e49b5fa418.png)
+
+**Tip**: Remember, to avoid unnecessary boarding complications, your given name and surname must be exactly as they appear on your passport or ID.
+
+5.	Under _CABIN BAGGAGE_, select from one of the two relevant baggage options.
+
+
+
 
 
 

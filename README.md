@@ -18,7 +18,9 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 **Tip**: To receive important text alerts about your journey, we recommend that you enter your mobile number.
 
-4.	In the Primary passenger section, enter your required personal details.
+4.	In the _Primary passenger_ section, enter your required personal details.
+
+
 
 
 

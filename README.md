@@ -8,5 +8,9 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 ![Image 2](https://user-images.githubusercontent.com/57447158/88820075-218cf280-d1c1-11ea-9a9a-f8079860c934.png)
 
+2.	Review the _Trip summary_ section to ensure your travel itinerary is correct.
+
+
+
 
 

@@ -14,6 +14,8 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 3.	In the _Contact details_ section, enter the required contact details.
 
+![Image 4](https://user-images.githubusercontent.com/57447158/88820083-22be1f80-d1c1-11ea-94c1-7ac92d7e07c4.png)
+
 
 
 

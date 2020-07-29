@@ -26,6 +26,8 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 5.	Under _CABIN BAGGAGE_, select from one of the two relevant baggage options.
 
+![Image 6](https://user-images.githubusercontent.com/57447158/88820037-189c2100-d1c1-11ea-9586-e03137c7a56e.png)
+
 
 
 

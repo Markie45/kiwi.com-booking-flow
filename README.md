@@ -101,7 +101,7 @@ An _Upgrade services_ section appears and displays the following two options:
 
 The _Customize your trip screen_ appears. This screen allows you to choose your seat for the outbound and inbound legs of your journey as well as sign up to our _AirHelp+_ service. 
 
-![Image 13](https://user-images.githubusercontent.com/57447158/88820050-1b971180-d1c1-11ea-8e74-e83170af5885.png)
+![Image 13](https://user-images.githubusercontent.com/57447158/88918826-6751c580-d26a-11ea-8e58-db44744e3299.png)
 
 12.	Under the _Seating for your outbound journey_ section, expand the Select seats section and choose from one of the following four seating options:
 *	_Automatic_

@@ -124,6 +124,10 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 ![Image 22](https://user-images.githubusercontent.com/57447158/88820070-1fc32f00-d1c1-11ea-9694-6825f2eef444.png)
 
+21.	To complete your booking select the **Terms & Conditions/Privacy Policy** check box and click **Pay** to confirm.
+
+
+
 
 
 

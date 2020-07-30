@@ -98,6 +98,8 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 15.	After you have customized your trip, click **Continue**.
 
+![Image 10](https://user-images.githubusercontent.com/57447158/88820047-19cd4e00-d1c1-11ea-9d27-1795d7ddc134.png)
+
 
 
 

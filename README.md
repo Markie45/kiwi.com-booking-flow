@@ -133,19 +133,28 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 ## Overview and payment
 
-The _Overview & payment_ screen appears. This screen will allow you to review your travel itinerary, your passenger and baggage information, add your billing address and payment details, as well as confirm payment.        
+The _Overview & payment_ screen appears. This screen allows you to review your travel itinerary, your passenger and baggage information, add your billing address and payment details, as well as confirm payment.        
 
 ![Image 17](https://user-images.githubusercontent.com/57447158/88925786-4e9add00-d275-11ea-9a3c-6064f382b8e5.png)
 
-16.	In the _Overview_ section, review your itinerary, passenger and baggage allowance details.
+16.	In the _Overview_ section, review your travel itinerary, passenger and baggage allowance details.
 
 ![Image 18](https://user-images.githubusercontent.com/57447158/88820060-1df96b80-d1c1-11ea-926f-b72afbd9c336.png)
 
-17.	To add the relevant billing address, in the Invoice details section, select the **Edit invoice details** check box.
+17.	To add your billing address, select the **Edit invoice details** check box in the _Invoice details_ section.
 
 ![Image 19](https://user-images.githubusercontent.com/57447158/88820062-1df96b80-d1c1-11ea-8d9d-229b542809a4.png)
 
-18.	In the fields that appear, select the address type and enter your full name as well as your address.
+18.	In the fields that appear, select the relevant address type and enter and select your personal details:
+* **Personal**
+* **Company**
+* _Given names_
+* _Surnames_
+* **Country**
+* _Street address_
+* _City_
+* _Postal code_
+
 
 ![Image 20](https://user-images.githubusercontent.com/57447158/88820064-1e920200-d1c1-11ea-880e-e1683937da30.png)
 

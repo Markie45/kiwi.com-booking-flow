@@ -58,6 +58,15 @@ The Ticket fare screen appears and displays the following three fare options:
 *	_Standard_ 
 *	_Flexi_ 
 
+![Image 11](https://user-images.githubusercontent.com/57447158/88820048-1a65e480-d1c1-11ea-8a23-ade2bf6fe1df.png)
+
+10.	Click the required fare option, for example, **Continue with Standard**.
+
+An Upgrade services section appears and displays the following two options:
+*	_Plus Services_
+*	_Premium Services_
+
+
   
   
 

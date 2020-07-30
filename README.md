@@ -38,7 +38,9 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 > **Tip**: If your passport or ID do not have an expiry daye, select the **No expiry** check box.
 
-5.	Under _CABIN BAGGAGE_, select from one of the two relevant options.
+5.	Under _CABIN BAGGAGE_, select from one of the two relevant options:
+* _Personal item_
+* _Personal item + Cabin bag_
 
 ![Image 6](https://user-images.githubusercontent.com/57447158/88820037-189c2100-d1c1-11ea-9586-e03137c7a56e.png)
 

@@ -70,7 +70,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 9.	After you enter the relevant passenger details, click **Continue**.
 
-![Image 10](https://user-images.githubusercontent.com/57447158/88932287-2a8fc980-d27e-11ea-8aab-60967b34f4e6.png)
+![Image 10](https://user-images.githubusercontent.com/57447158/88933164-5495bb80-d27f-11ea-8965-91561084cba8.png)
 
 ## Ticket fare
 

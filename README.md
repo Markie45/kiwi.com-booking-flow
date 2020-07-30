@@ -121,13 +121,17 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 13.	To select a seat under the _Seating for your return journey_, simply follow the instructions outlined in step 12.
 
-14.	In the _AirHelp+_ section, click **Add for €7.90** to avail of our flight compensation and cost reimbursement services. 
+14.	In the _AirHelp+_ section, click **Add** to avail of our flight compensation and cost reimbursement services. 
 
 ![Image 16](https://user-images.githubusercontent.com/57447158/88820057-1cc83e80-d1c1-11ea-8011-190e646d712a.png)
+
+> **Tip**: For more information about our _AirPlus+_ service, click **Learn more**.
 
 15.	After you have customized your trip, click **Continue**.
 
 ![Image 10](https://user-images.githubusercontent.com/57447158/88914911-ad575b00-d263-11ea-8c7e-aee645a67194.png)
+
+## Overview and payment
 
 The _Overview & payment_ screen appears. This screen will allow you to review your travel itinerary, your passenger and baggage information, add your billing address and payment details, as well as confirm payment.        
 

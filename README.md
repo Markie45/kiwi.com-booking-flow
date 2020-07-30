@@ -157,14 +157,19 @@ The _Overview & payment_ screen appears. This screen allows you to review your t
 
 ![Image 20](https://user-images.githubusercontent.com/57447158/88820064-1e920200-d1c1-11ea-880e-e1683937da30.png)
 
-19.	If you wish to redeem a promo code, click **Redeem promo code** and, in the field that appears, enter the promo code and then click **Apply**. 
+19.	To redeem a promo code, click **Redeem promo code** and, in the field that appears, enter the code and click **Apply**. 
 
 ![Image 21](https://user-images.githubusercontent.com/57447158/88820068-1f2a9880-d1c1-11ea-841a-94c49ba2f6fd.png)
 
-20.	In the _Payment_ section, enter the required debit or credit card details and, if you wish, select the **Save card** check box to save payment details for future kiwi.com bookings.
+20.	In the _Payment_ section, enter your debit or credit card details and, if you wish, select the **Save card** check box to save your payment details for future kiwi.com bookings:
+* _Payment cared number_ (Required)
+* _Expiry date_ (Required)
+* _Security code_ (Required)
+* _Cardholder's name_ (Required)
+* **Save card**
 
 ![Image 22](https://user-images.githubusercontent.com/57447158/88820070-1fc32f00-d1c1-11ea-9694-6825f2eef444.png)
 
-21.	To complete your booking select the **Terms & Conditions/Privacy Policy** check box and click **Pay** to confirm.
+21.	To complete your booking, select the **Terms & Conditions/Privacy Policy** check box and click **Pay** to confirm.
 
 ![Image 23](https://user-images.githubusercontent.com/57447158/88820072-205bc580-d1c1-11ea-812e-306fc19b7802.png)

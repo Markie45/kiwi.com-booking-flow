@@ -18,7 +18,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 4](https://user-images.githubusercontent.com/57447158/88820083-22be1f80-d1c1-11ea-94c1-7ac92d7e07c4.png)
 
-**Tip**: To receive important text alerts about your journey, we recommend that you enter your mobile number.
+> **Tip**: To receive important text alerts about your journey, we recommend that you enter your mobile number.
 
 4.	In the _Primary passenger_ section, enter your required personal details.
 

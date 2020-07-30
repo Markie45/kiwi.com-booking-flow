@@ -97,7 +97,9 @@ An _Upgrade services_ section appears and displays the following two options:
 
 11.	Click your preferred service option, for example, **Continue with Plus**. 
 
-The _Customize your trip screen_ appears. This screen will allow you to choose your seat for the outbound and inbound legs of your journey and add our _AirHelp+_ service. 
+## Customize your trip
+
+The _Customize your trip screen_ appears. This screen allows you to choose your seat for the outbound and inbound legs of your journey as well as sign up to our _AirHelp+_ service. 
 
 ![Image 13](https://user-images.githubusercontent.com/57447158/88820050-1b971180-d1c1-11ea-8e74-e83170af5885.png)
 

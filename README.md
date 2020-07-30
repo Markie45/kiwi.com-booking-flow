@@ -26,11 +26,11 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 > **Tip**: To avoid unnecessary complications when boarding, you must enter your given name and surname exactly as they appear on your passport or ID.
 
-5.	Under _CABIN BAGGAGE_, select from one of the two relevant baggage options.
+5.	Under _CABIN BAGGAGE_, select from one of the two relevant options.
 
 ![Image 6](https://user-images.githubusercontent.com/57447158/88820037-189c2100-d1c1-11ea-9586-e03137c7a56e.png)
 
-**Tip**: Cabin baggage consists of smaller bags that can be easily stored in the overhead locker or under your seat.
+> **Tip**: Cabin baggage consists of smaller bags that are easily stored in an overhead locker or under your seat.
 
 6.	Under _CHECKED BAGGAGE_, select from one of the three relevant options.
 

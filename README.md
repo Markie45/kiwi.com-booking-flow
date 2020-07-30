@@ -104,7 +104,11 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 ![Image 17](https://user-images.githubusercontent.com/57447158/88820058-1d60d500-d1c1-11ea-8779-eb448222d1ea.png)
 
-16.	In the Overview section, review your itinerary, passenger and baggage allowance details.
+16.	In the _Overview_ section, review your itinerary, passenger and baggage allowance details.
+
+![Image 18](https://user-images.githubusercontent.com/57447158/88820060-1df96b80-d1c1-11ea-926f-b72afbd9c336.png)
+
+17.	To add the relevant billing address, in the Invoice details section, select the **Edit invoice details** check box.
 
 
 

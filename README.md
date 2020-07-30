@@ -48,7 +48,10 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 > **Tip**: The _Personal item + Cabin bag_ option carries an extra cost.
 
-6.	Under _CHECKED BAGGAGE_, select from one of the three relevant options.
+6.	Under _CHECKED BAGGAGE_, select from one of the three relevant options:
+* _No checked baggage_
+* _20kg Checked bag_
+* _2 x 20kg Checked bag_
 
 ![Image 7](https://user-images.githubusercontent.com/57447158/88820039-189c2100-d1c1-11ea-9f32-73e87bae89f2.png)
 

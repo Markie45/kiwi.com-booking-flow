@@ -81,15 +81,15 @@ The _Ticket fare_ screen appears and displays the following three fare options:
 
 ![Image 11](https://user-images.githubusercontent.com/57447158/88820048-1a65e480-d1c1-11ea-8a23-ade2bf6fe1df.png)
 
-10.	Click the required fare option, for example, **Continue with Standard**.
+10.	Click your preferred fare option, for example, **Continue with Standard**.
 
-An Upgrade services section appears and displays the following two options:
+An _Upgrade services_ section appears and displays the following two options:
 *	_Plus Services_
 *	_Premium Services_
 
 ![Image 12](https://user-images.githubusercontent.com/57447158/88820049-1afe7b00-d1c1-11ea-986e-a764f82398b2.png)
 
-11.	Click the required service, for example, **Continue with Plus**. 
+11.	Click your preffered service option, for example, **Continue with Plus**. 
 
 The _Customize your trip screen_ appears. This screen will allow you to choose your seat for the outbound and inbound legs of your journey and add our _AirHelp+_ service. 
 

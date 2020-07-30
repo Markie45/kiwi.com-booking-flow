@@ -22,7 +22,14 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 > **Tip**: To receive important text alerts about your journey, we recommend that you enter your mobile number.
 
-4.	In the _Primary passenger_ section, enter your personal details.
+4.	In the _Primary passenger_ section, enter your personal details:
+* _Given names_ (Required)
+* _Surnames_ (Required)
+* _Nationality_ (Required)
+* _Gender_ (Required)
+* _Date of birth_ (Required)
+* _Passport or ID number_ (Required)
+* _Passport or ID expiry date_ (Required)
 
 ![Image 5](https://user-images.githubusercontent.com/57447158/88820032-18038a80-d1c1-11ea-96d5-c7e49b5fa418.png)
 

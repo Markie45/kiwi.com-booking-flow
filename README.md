@@ -80,6 +80,11 @@ The _Customize your trip screen_ appears. This screen will allow you to choose y
 *	_Isle_
 *	_Extra Legroom_
 
+![Image 14](https://user-images.githubusercontent.com/57447158/88820051-1b971180-d1c1-11ea-8f95-05938e9004f0.png)
+
+Or
+
+Click **Open seat map**, select your preferred seat and then click **Confirm selection** to continue.
 
 
 

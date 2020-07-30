@@ -72,7 +72,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 9.	After you enter the relevant passenger details, click **Continue**.
 
-![Image 10](https://user-images.githubusercontent.com/57447158/88914689-45087980-d263-11ea-93f1-8910dfe95b72.png)
+![Image 10](https://user-images.githubusercontent.com/57447158/88914911-ad575b00-d263-11ea-8c7e-aee645a67194.png)
 
 The Ticket fare screen appears and displays the following three fare options:
 *	_Saver_  
@@ -119,7 +119,7 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 15.	After you have customized your trip, click **Continue**.
 
-![Image 10](https://user-images.githubusercontent.com/57447158/88914689-45087980-d263-11ea-93f1-8910dfe95b72.png)
+![Image 10](https://user-images.githubusercontent.com/57447158/88914911-ad575b00-d263-11ea-8c7e-aee645a67194.png)
 
 The _Overview & payment_ screen appears. This screen will allow you to review your travel itinerary, your passenger and baggage information, add your billing address and payment details, as well as confirm payment.        
 

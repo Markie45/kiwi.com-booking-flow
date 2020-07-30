@@ -37,9 +37,9 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 **Tip**: Checked baggage consists of larger items that you must deposit at the check-in counter before going through airport security. 
 
 7.	Under Travel insurance, select from one of the three relevant options:
-*	Travel Plus
-*	Travel Basic
-*	No insurance
+*	_Travel Plus_
+*	_Travel Basic_
+*	_No insurance_
 
 ![Image 8](https://user-images.githubusercontent.com/57447158/88820044-1934b780-d1c1-11ea-84c9-37aae62bfadd.png)
 
@@ -52,6 +52,12 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 9.	After you enter the required passenger details, click **Continue**.
 
 ![Image 10](https://user-images.githubusercontent.com/57447158/88820047-19cd4e00-d1c1-11ea-9d27-1795d7ddc134.png)
+
+The Ticket fare screen appears and displays the following three fare options:
+*	_Saver_  
+*	_Standard_ 
+*	_Flexi_ 
+
   
   
 

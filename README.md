@@ -113,7 +113,7 @@ Or
 
 Click **Open seat map**, select your preferred seat and then click **Confirm selection** to confirm your choice.
 
-![Image 15](https://user-images.githubusercontent.com/57447158/88919802-0aefa580-d26c-11ea-8a67-80035609ef42.png)
+![Image 15](https://user-images.githubusercontent.com/57447158/88934479-f538ab00-d280-11ea-88b7-1dc74e5dd016.png)
 
 > **Tip**: Choosing your own seat carries an extra cost. To undo a selected seat, return to the _Seat map_, click the relevant seat, and then click **Deselect** and **Confirm selection** to confirm. 
 

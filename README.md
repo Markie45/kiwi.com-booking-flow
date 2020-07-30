@@ -135,7 +135,7 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 The _Overview & payment_ screen appears. This screen will allow you to review your travel itinerary, your passenger and baggage information, add your billing address and payment details, as well as confirm payment.        
 
-![Image 17](https://user-images.githubusercontent.com/57447158/88820058-1d60d500-d1c1-11ea-8779-eb448222d1ea.png)
+![Image 17](https://user-images.githubusercontent.com/57447158/88925786-4e9add00-d275-11ea-9a3c-6064f382b8e5.png)
 
 16.	In the _Overview_ section, review your itinerary, passenger and baggage allowance details.
 

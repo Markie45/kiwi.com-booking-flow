@@ -159,7 +159,7 @@ The _Overview & payment_ screen appears. This screen allows you to review your t
 
 ![Image 21](https://user-images.githubusercontent.com/57447158/88820068-1f2a9880-d1c1-11ea-841a-94c49ba2f6fd.png)
 
-20.	In the _Payment_ section, enter your debit or credit card details and, if you wish, select the **Save card** check box to save your payment details for future [kiwi.com](kiwi.com) bookings:
+20.	In the _Payment_ section, enter your debit or credit card details and, if you wish, select the **Save card** check box to save your payment details for future [kiwi.com](https://www.kiwi.com/ie/landing/-/-/anytime/anytime) bookings:
 * _Payment cared number_ (Required)
 * _Expiry date_ (Required)
 * _Security code_ (Required)

@@ -10,11 +10,11 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 2](https://user-images.githubusercontent.com/57447158/88905514-a8d87580-d256-11ea-837b-9972b84dab34.png)
 
-2.	Review the _Trip summary_ section to ensure your travel itinerary is correct.
+2.	Review the _Trip summary_ section to ensure your trip's itinerary is correct.
 
 ![Image 3](https://user-images.githubusercontent.com/57447158/88820079-22258900-d1c1-11ea-8244-a89b85414e0a.png)
 
-3.	In the _Contact details_ section, enter the required contact details.
+3.	In the _Contact details_ section, enter your required contact details.
 
 ![Image 4](https://user-images.githubusercontent.com/57447158/88820083-22be1f80-d1c1-11ea-94c1-7ac92d7e07c4.png)
 

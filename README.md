@@ -74,7 +74,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 10](https://user-images.githubusercontent.com/57447158/88914911-ad575b00-d263-11ea-8c7e-aee645a67194.png)
 
-The Ticket fare screen appears and displays the following three fare options:
+The _Ticket fare_ screen appears and displays the following three fare options:
 *	_Saver_  
 *	_Standard_ 
 *	_Flexi_ 

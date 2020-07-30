@@ -76,7 +76,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ## Ticket fare
 
-The _Ticket fare_ screen appears. This screen allows you to select your ticket's flexibility regarding rebooking, cancellations, etc. and gives you the option to upgrade to our _Premium service_.   
+The _Ticket fare_ screen appears. This screen allows you to select your fare's flexibility regarding rebooking, cancellations, etc. and gives you the option to upgrade to our _Premium service_.   
 
 The _Ticket fare_ screen displays the following three ticket fare options:
 *	_Saver_  
@@ -85,7 +85,7 @@ The _Ticket fare_ screen displays the following three ticket fare options:
 
 ![Image 11](https://user-images.githubusercontent.com/57447158/88820048-1a65e480-d1c1-11ea-8a23-ade2bf6fe1df.png)
 
-> **Tip**: Click **Learn more** to find out about our ticket flexibility levels.
+> **Tip**: Click **Learn more** to find out about our fare flexibility levels.
 
 10.	Click your preferred fare option, for example, **Continue with Standard**.
 
@@ -95,7 +95,7 @@ An _Upgrade services_ section appears and displays the following two options:
 
 ![Image 12](https://user-images.githubusercontent.com/57447158/88820049-1afe7b00-d1c1-11ea-986e-a764f82398b2.png)
 
-11.	Click your preffered service option, for example, **Continue with Plus**. 
+11.	Click your preferred service option, for example, **Continue with Plus**. 
 
 The _Customize your trip screen_ appears. This screen will allow you to choose your seat for the outbound and inbound legs of your journey and add our _AirHelp+_ service. 
 

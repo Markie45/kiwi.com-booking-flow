@@ -146,15 +146,14 @@ The _Overview & payment_ screen appears. This screen allows you to review your t
 ![Image 19](https://user-images.githubusercontent.com/57447158/88820062-1df96b80-d1c1-11ea-8d9d-229b542809a4.png)
 
 18.	In the fields that appear, select the relevant address type and enter and select your personal details:
-* **Personal**
-* **Company**
-* _Given names_
-* _Surnames_
-* **Country**
-* _Street address_
-* _City_
-* _Postal code_
-
+* **Personal** (Required)
+* **Company** (Required)
+* _Given names_ (Required)
+* _Surnames_ (Required)
+* **Country** (Required)
+* _Street address_ (Required)
+* _City_ (Required)
+* _Postal code_ (Required)
 
 ![Image 20](https://user-images.githubusercontent.com/57447158/88820064-1e920200-d1c1-11ea-880e-e1683937da30.png)
 

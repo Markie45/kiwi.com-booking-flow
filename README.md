@@ -30,6 +30,18 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 **Tip**: Cabin baggage consists of smaller bags that can be easily stored in the overhead locker or under your seat.
 
+6.	Under _CHECKED BAGGAGE_, select from one of the three relevant options.
+
+![Image 7](https://user-images.githubusercontent.com/57447158/88820039-189c2100-d1c1-11ea-9f32-73e87bae89f2.png)
+
+**Tip**: Checked baggage consists of larger items that you must deposit at the check-in counter before going through airport security. 
+
+7.	Under Travel insurance, select from one of the three relevant options:
+*	Travel Plus
+*	Travel Basic
+*	No insurance
+
+
 
 
 

@@ -46,6 +46,8 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 > **Tip**: Cabin baggage consists of smaller bags that are easily stored in an overhead locker or under your seat.
 
+> **Tip**: The _Personal item + Cabin bag_ option carries an extra cost.
+
 6.	Under _CHECKED BAGGAGE_, select from one of the three relevant options.
 
 ![Image 7](https://user-images.githubusercontent.com/57447158/88820039-189c2100-d1c1-11ea-9f32-73e87bae89f2.png)

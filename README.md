@@ -118,7 +118,7 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 19.	If you wish to redeem a promo code, click **Redeem promo code** and, in the field that appears, enter the promo code and then click **Apply**. 
 
-
+![Image 21](https://user-images.githubusercontent.com/57447158/88820068-1f2a9880-d1c1-11ea-841a-94c49ba2f6fd.png)
 
 20.	In the Payment section, enter the required debit or credit card details and, if you wish, select the Save card check box to save payment details for future kiwi.com bookings.
 

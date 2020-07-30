@@ -51,6 +51,10 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 9.	After you enter the required passenger details, click **Continue**.
 
+![Image 10](https://user-images.githubusercontent.com/57447158/88820047-19cd4e00-d1c1-11ea-9d27-1795d7ddc134.png)
+  
+  
+
 
 
 

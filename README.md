@@ -30,10 +30,13 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 * _Date of birth_ (Required)
 * _Passport or ID number_ (Required)
 * _Passport or ID expiry date_ (Required)
+* **Expiry date**
 
 ![Image 5](https://user-images.githubusercontent.com/57447158/88820032-18038a80-d1c1-11ea-96d5-c7e49b5fa418.png)
 
 > **Tip**: To avoid unnecessary complications when boarding, you must enter your given name and surname exactly as they appear on your passport or ID.
+
+> **Tip**: If your passport or ID do not have an expiry daye, select the **No expiry** check box.
 
 5.	Under _CABIN BAGGAGE_, select from one of the two relevant options.
 

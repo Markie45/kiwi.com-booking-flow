@@ -120,6 +120,10 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 
 
+20.	In the Payment section, enter the required debit or credit card details and, if you wish, select the Save card check box to save payment details for future kiwi.com bookings.
+
+
+
 
 
 

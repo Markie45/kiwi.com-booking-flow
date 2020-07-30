@@ -14,7 +14,9 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 3](https://user-images.githubusercontent.com/57447158/88820079-22258900-d1c1-11ea-8244-a89b85414e0a.png)
 
-3.	In the _Contact details_ section, enter your contact details.
+3.	In the _Contact details_ section, enter your contact details:
+* _Email_ (Required)
+* _Phone_ (Required)
 
 ![Image 4](https://user-images.githubusercontent.com/57447158/88820083-22be1f80-d1c1-11ea-94c1-7ac92d7e07c4.png)
 

@@ -114,7 +114,9 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 18.	In the fields that appear, select the address type and enter your full name as well as your address.
 
+![Image 20](https://user-images.githubusercontent.com/57447158/88820064-1e920200-d1c1-11ea-880e-e1683937da30.png)
 
+19.	If you wish to redeem a promo code, click **Redeem promo code** and, in the field that appears, enter the promo code and then click **Apply**. 
 
 
 

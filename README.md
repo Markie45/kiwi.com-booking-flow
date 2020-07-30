@@ -70,7 +70,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 9.	After you enter the relevant passenger details, click **Continue**.
 
-![Image 10](https://user-images.githubusercontent.com/57447158/88931661-6a09e600-d27d-11ea-96fc-e6213799eb9f.png)
+![Image 10](https://user-images.githubusercontent.com/57447158/88932287-2a8fc980-d27e-11ea-8aab-60967b34f4e6.png)
 
 ## Ticket fare
 
@@ -127,7 +127,7 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 15.	After you have customized your trip, click **Continue**.
 
-![Image 10](https://user-images.githubusercontent.com/57447158/88931262-e4863600-d27c-11ea-9070-734d9335e2ae.png)
+![Image 10](https://user-images.githubusercontent.com/57447158/88932287-2a8fc980-d27e-11ea-8aab-60967b34f4e6.png)
 
 ## Overview and payment
 

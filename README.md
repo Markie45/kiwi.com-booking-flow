@@ -45,6 +45,10 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 **Tip**: Click **Comparison and terms** to view a detailed break-down of each insurance policy.
 
+8.	To add an extra passenger, click Add another passenger and repeat steps 4 through to 7.
+
+
+
 
 
 

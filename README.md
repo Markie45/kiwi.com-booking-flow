@@ -66,7 +66,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 8.	To add an extra passenger to your trip's itinerary, click **Add another passenger** and repeat steps 4 through to 7.
 
-![Image 9](https://user-images.githubusercontent.com/57447158/88820046-19cd4e00-d1c1-11ea-8f39-91705bf314e7.png)
+![Image 9](https://user-images.githubusercontent.com/57447158/88933878-3d0b0280-d280-11ea-93b1-d1ce1835e8f5.png)
 
 9.	After you enter the relevant passenger details, click **Continue**.
 

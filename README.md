@@ -103,7 +103,7 @@ The _Customize your trip screen_ appears. This screen allows you to choose your 
 
 ![Image 13](https://user-images.githubusercontent.com/57447158/88918826-6751c580-d26a-11ea-8e58-db44744e3299.png)
 
-12.	Under the _Seating for your outbound journey_ section, expand the Select seats section and choose from one of the following four seating options:
+12.	Under the _Seating for your outbound journey_ section, expand the **Select seats** section and choose from one of the following four seating options:
 *	_Automatic_
 *	_Window_
 *	_Isle_
@@ -113,11 +113,11 @@ The _Customize your trip screen_ appears. This screen allows you to choose your 
 
 Or
 
-Click **Open seat map**, select your preferred seat and then click **Confirm selection** to continue.
+Click **Open seat map**, select your preferred seat and then click **Confirm selection** to confirm your choice.
 
 ![Image 15](https://user-images.githubusercontent.com/57447158/88820056-1c2fa800-d1c1-11ea-8db3-5b11ce3db0a9.png)
 
-**Tip**: Choosing your own seat carries an extra cost. You can undo a seat selection by returning to the _Seat map_, clicking the selected seat, and then click **Deselect** and **Confirm selection** to confirm. 
+> **Tip**: Choosing your own seat carries an extra cost. You can undo a seat selection by returning to the _Seat map_, clicking the selected seat, and then click **Deselect** and **Confirm selection** to confirm. 
 
 13.	To select a seat under the _Seating for your return journey_, repeat the instructions outlined in the previous step.
 
@@ -156,39 +156,3 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 21.	To complete your booking select the **Terms & Conditions/Privacy Policy** check box and click **Pay** to confirm.
 
 ![Image 23](https://user-images.githubusercontent.com/57447158/88820072-205bc580-d1c1-11ea-812e-306fc19b7802.png)
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

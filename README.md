@@ -110,6 +110,12 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 17.	To add the relevant billing address, in the Invoice details section, select the **Edit invoice details** check box.
 
+![Image 19](https://user-images.githubusercontent.com/57447158/88820062-1df96b80-d1c1-11ea-8d9d-229b542809a4.png)
+
+18.	In the fields that appear, select the address type and enter your full name as well as your address.
+
+
+
 
 
 

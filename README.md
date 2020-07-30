@@ -94,6 +94,10 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 14.	In the _AirHelp+_ section, click **Add for €7.90** to avail of our flight compensation and cost reimbursement services. 
 
+![Image 16](https://user-images.githubusercontent.com/57447158/88820057-1cc83e80-d1c1-11ea-8011-190e646d712a.png)
+
+15.	After you have customized your trip, click **Continue**.
+
 
 
 

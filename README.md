@@ -1,10 +1,12 @@
-## Booking your trip with kiwi.com
+# Booking your trip with kiwi.com
 
 1.	Scroll through the search results and click **Book** on the relevant trip.
 
 ![Image 1](https://user-images.githubusercontent.com/57447158/88820074-20f45c00-d1c1-11ea-9546-5b85e39373d7.png)
 
-The _Passenger details_ screen appears. This screen will allow you to review your trip’s itinerary, add  personal details, select your baggage requirements, choose travel insurance and, if you wish, add another passenger. 
+## Passenger details
+
+The _Passenger details_ screen appears. This screen allows you to review your trip’s itinerary, add your personal details, select your baggage requirements, choose travel insurance and, if required, add another passenger. 
 
 ![Image 2](https://user-images.githubusercontent.com/57447158/88820075-218cf280-d1c1-11ea-9a9a-f8079860c934.png)
 

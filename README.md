@@ -55,7 +55,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 7](https://user-images.githubusercontent.com/57447158/88820039-189c2100-d1c1-11ea-9f32-73e87bae89f2.png)
 
-**Tip**: Checked baggage consists of larger items that you must deposit at the check-in counter before going through airport security. 
+> **Tip**: Checked baggage consists of larger items that you must deposit at the check-in counter before going through airport security. 
 
 7.	Under Travel insurance, select from one of the three relevant options:
 *	_Travel Plus_
@@ -64,7 +64,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 8](https://user-images.githubusercontent.com/57447158/88820044-1934b780-d1c1-11ea-84c9-37aae62bfadd.png)
 
-**Tip**: Click **Comparison and terms** to view a detailed break-down of each insurance policy.
+> **Tip**: Click **Comparison and terms** to view a detailed break-down of each insurance policy.
 
 8.	To add an extra passenger, click **Add another passenger** and repeat steps 4 through to 7.
 

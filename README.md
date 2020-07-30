@@ -83,9 +83,9 @@ The _Ticket fare_ screen displays the following three ticket fare options:
 *	_Standard_ 
 *	_Flexi_ 
 
-> **Tip**: Click **Learn more** to find out about our ticket flexibility levels.
-
 ![Image 11](https://user-images.githubusercontent.com/57447158/88820048-1a65e480-d1c1-11ea-8a23-ade2bf6fe1df.png)
+
+> **Tip**: Click **Learn more** to find out about our ticket flexibility levels.
 
 10.	Click your preferred fare option, for example, **Continue with Standard**.
 

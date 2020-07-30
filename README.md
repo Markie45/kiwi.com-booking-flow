@@ -72,6 +72,10 @@ An Upgrade services section appears and displays the following two options:
 
 The Customize your trip screen appears. This screen will allow you to choose your seat for the outbound and inbound legs of your journey and add our AirHelp+ service. 
 
+![Image 13](https://user-images.githubusercontent.com/57447158/88820050-1b971180-d1c1-11ea-8e74-e83170af5885.png)
+
+
+
 
 
   

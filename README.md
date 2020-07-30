@@ -28,6 +28,14 @@ The _Passenger details_ screen appears. This screen will allow you to review you
 
 ![Image 6](https://user-images.githubusercontent.com/57447158/88820037-189c2100-d1c1-11ea-9586-e03137c7a56e.png)
 
+**Tip**: Cabin baggage consists of smaller bags that can be easily stored in the overhead locker or under your seat.
+
+
+
+
+
+
+
 
 
 

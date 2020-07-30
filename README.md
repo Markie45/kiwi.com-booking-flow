@@ -74,7 +74,11 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 10](https://user-images.githubusercontent.com/57447158/88914911-ad575b00-d263-11ea-8c7e-aee645a67194.png)
 
-The _Ticket fare_ screen appears and displays the following three fare options:
+## Ticket fare
+
+The _Ticket fare_ screen appears. This screen allows you to select your ticket's fare type and gives you the option of upgrading to our _Premium service_.   
+
+The _Ticket fare_ screen displays the following three ticket fare options:
 *	_Saver_  
 *	_Standard_ 
 *	_Flexi_ 

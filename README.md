@@ -117,9 +117,9 @@ Click **Open seat map**, select your preferred seat and then click **Confirm sel
 
 ![Image 15](https://user-images.githubusercontent.com/57447158/88820056-1c2fa800-d1c1-11ea-8db3-5b11ce3db0a9.png)
 
-> **Tip**: Choosing your own seat carries an extra cost. You can undo a seat selection by returning to the _Seat map_, clicking the selected seat, and then click **Deselect** and **Confirm selection** to confirm. 
+> **Tip**: Choosing your own seat carries an extra cost. To undo a selected seat, return to the _Seat map_, click the relevant seat, and then click **Deselect** and **Confirm selection** to confirm. 
 
-13.	To select a seat under the _Seating for your return journey_, repeat the instructions outlined in the previous step.
+13.	To select a seat under the _Seating for your return journey_, simply follow the instructions outlined in step 12.
 
 14.	In the _AirHelp+_ section, click **Add for €7.90** to avail of our flight compensation and cost reimbursement services. 
 

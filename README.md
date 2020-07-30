@@ -1,6 +1,6 @@
 # Booking your trip with kiwi.com
 
-1.	Scroll through the search results and click **Book** on the relevant trip.
+1.	Scroll through your search results and click **Book** on your preferred trip.
 
 ![Image 1](https://user-images.githubusercontent.com/57447158/88820074-20f45c00-d1c1-11ea-9546-5b85e39373d7.png)
 
@@ -34,7 +34,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 5](https://user-images.githubusercontent.com/57447158/88820032-18038a80-d1c1-11ea-96d5-c7e49b5fa418.png)
 
-> **Tip**: To avoid unnecessary complications when boarding, you must enter your given name and surname exactly as they appear on your passport or ID.
+> **Tip**: To avoid complications when boarding, enter your given name and surname exactly as they appear on your passport or ID.
 
 > **Tip**: If your passport or ID do not have an expiry daye, select the **No expiry** check box.
 
@@ -46,8 +46,6 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 > **Tip**: Cabin baggage consists of smaller bags that are easily stored in an overhead locker or under your seat.
 
-> **Tip**: The _Personal item + Cabin bag_ option carries an extra cost.
-
 6.	Under _CHECKED BAGGAGE_, select from one of the three relevant options:
 * _No checked baggage_
 * _20kg Checked bag_
@@ -55,9 +53,9 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 7](https://user-images.githubusercontent.com/57447158/88820039-189c2100-d1c1-11ea-9f32-73e87bae89f2.png)
 
-> **Tip**: Checked baggage consists of larger items that you must deposit at the check-in counter before going through airport security. 
+> **Tip**: Checked baggage consists of larger items that you must deposit at check-in before going through airport security. 
 
-7.	Under _Travel insurance_, select from one of the three relevant options:
+7.	Under _Travel insurance_, select from one of the three options:
 *	_Travel Plus_
 *	_Travel Basic_
 *	_No insurance_
@@ -76,9 +74,9 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ## Ticket fare
 
-The _Ticket fare_ screen appears. This screen allows you to select your fare's flexibility regarding rebooking, cancellations, etc. and gives you the option to upgrade to our _Premium service_.   
+The _Ticket fare_ screen appears. This screen allows you to select your ticket's flexibility regarding rebooking, cancellations, etc., and gives you the option of upgrading to our _Premium service_.   
 
-The _Ticket fare_ screen displays the following three ticket fare options:
+The _Ticket fare_ screen displays the following three fare options:
 *	_Saver_  
 *	_Standard_ 
 *	_Flexi_ 
@@ -157,11 +155,11 @@ The _Overview & payment_ screen appears. This screen allows you to review your t
 
 ![Image 20](https://user-images.githubusercontent.com/57447158/88820064-1e920200-d1c1-11ea-880e-e1683937da30.png)
 
-19.	To redeem a promo code, click **Redeem promo code** and, in the field that appears, enter the code and click **Apply**. 
+19.	To redeem a promo code, click **Redeem promo code** and, in the field that appears, enter your code and click **Apply**. 
 
 ![Image 21](https://user-images.githubusercontent.com/57447158/88820068-1f2a9880-d1c1-11ea-841a-94c49ba2f6fd.png)
 
-20.	In the _Payment_ section, enter your debit or credit card details and, if you wish, select the **Save card** check box to save your payment details for future kiwi.com bookings:
+20.	In the _Payment_ section, enter your debit or credit card details and, if you wish, select the **Save card** check box to save your payment details for future [kiwi.com](kiwi.com) bookings:
 * _Payment cared number_ (Required)
 * _Expiry date_ (Required)
 * _Security code_ (Required)

@@ -126,6 +126,8 @@ The _Overview & payment_ screen appears. This screen will allow you to review yo
 
 21.	To complete your booking select the **Terms & Conditions/Privacy Policy** check box and click **Pay** to confirm.
 
+![Image 23](https://user-images.githubusercontent.com/57447158/88820072-205bc580-d1c1-11ea-812e-306fc19b7802.png)
+
 
 
 

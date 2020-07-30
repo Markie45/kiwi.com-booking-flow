@@ -70,7 +70,7 @@ The _Passenger details_ screen appears. This screen allows you to review your tr
 
 ![Image 9](https://user-images.githubusercontent.com/57447158/88820046-19cd4e00-d1c1-11ea-8f39-91705bf314e7.png)
 
-9.	After you enter the required passenger details, click **Continue**.
+9.	After you enter the relevant passenger details, click **Continue**.
 
 ![Image 10](https://user-images.githubusercontent.com/57447158/88820047-19cd4e00-d1c1-11ea-9d27-1795d7ddc134.png)
 
